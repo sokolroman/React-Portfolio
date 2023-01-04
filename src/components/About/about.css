@@ -1,0 +1,46 @@
+.about {
+    display: flex;
+    flex-direction: column; /* change the flex direction to column */
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+    padding: 50px 0;
+  }
+  
+  
+  .about-avatar {
+    flex: 0 0 200px;
+    margin-right: 30px;
+  }
+  
+  .about-avatar img {
+    width: 250px;
+    border-radius: 50%;
+  }
+  
+  .about-bio {
+    flex: 1;
+  }
+  
+  .about-bio h2 {
+    margin: 0 0 10px;
+    font-size: 2em;
+  }
+  
+  .about-bio p {
+    font-size: 1.2em;
+    line-height: 1.5;
+  }
+  .QGV {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .quickGlance {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border-radius: 5px;
+  }

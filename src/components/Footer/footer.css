@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 2em;
+    max-width: 35em;
+    margin: auto;
+    }
+    
+    .footer_link {
+    color: rgb(0, 0, 0);
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: color 0.2s;
+    }
+    
+    .footer_link:hover {
+    color: rgb(136, 136, 136);
+    }
+    
+    .footer_link-icon {
+    font-size: 2em;
+    margin-left: 10px;
+    }
+    
+    
+    

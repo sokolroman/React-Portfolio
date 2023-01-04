@@ -1,0 +1,12 @@
+.portfolio {
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .portfolio img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+  

@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "name": "Project 1",
+      "image": "project1.jpg",
+      "github": "https://github.com/username/project1",
+      "deploy": "https://project1.com",
+      "topics": "HTML, CSS, JavaScript"
+    },
+    {
+      "id": 2,
+      "name": "Project 2",
+      "image": "project2.jpg",
+      "github": "https://github.com/username/project2",
+      "deploy": "https://project2.com",
+      "topics": "React, Node.js, Express"
+    }
+  ]
