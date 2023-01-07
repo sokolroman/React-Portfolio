@@ -5,6 +5,7 @@ Welcome to my single-page application portfolio! This portfolio showcases my ski
 ## Navigation
 
    - [Preview](#Preview)
+   - [Deployment](#Deployment)
    - [Header](#Header)
    - [Navigation](#Navigation)
    - [About Me](#About-Me)
@@ -20,6 +21,10 @@ Welcome to my single-page application portfolio! This portfolio showcases my ski
 <img width="1512" alt="Screenshot 2022-12-18 at 17 40 49" src="https://user-images.githubusercontent.com/72160963/208323090-4fee24d9-f543-4ef3-bca6-5273dc4d60fc.png">
 
 <img width="1512" alt="Screenshot 2022-12-18 at 17 33 46" src="https://user-images.githubusercontent.com/72160963/208323037-29507c93-90cb-4d63-8d43-c1514272e8bd.png">
+
+## Deployment
+
+This API is deployed on [Heroku](https://git.heroku.com/react-portfolio-btcmp.git).
 
 ## Header
 
