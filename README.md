@@ -24,7 +24,7 @@ Welcome to my single-page application portfolio! This portfolio showcases my ski
 
 ## Deployment
 
-This API is deployed on [Heroku]([https://git.heroku.com/react-portfolio-btcmp.git](https://react-portfolio-btcmp.herokuapp.com)).
+This API is deployed on [Heroku](https://git.heroku.com/react-portfolio-btcmp.git).
 
 ## Header
 
